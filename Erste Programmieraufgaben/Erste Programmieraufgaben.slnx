@@ -1,0 +1,78 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="Arbeitszeitenrechner/Arbeitszeitenrechner.csproj" Id="0d330846-99a0-48fe-b1ff-b27835677ab4" />
+  <Project Path="ArbeitszeitenrechnerReverse/ArbeitszeitenrechnerReverse.csproj" Id="a0c91d28-41f8-4f4f-88c3-675a826c4eea" />
+  <Project Path="Aufgabe 1/Aufgabe 1.csproj" />
+  <Project Path="Aufgabe 10/Aufgabe 10.csproj" Id="838f74fc-f82b-4bd9-a634-89a8ddb37722" />
+  <Project Path="Aufgabe 11/Aufgabe 11.csproj" Id="ace9bf5c-3161-4128-81f3-b4d32e94d9ee" />
+  <Project Path="Aufgabe 12.2/Aufgabe 12.2.csproj" Id="5b2bd7b3-3e38-4658-b755-87ada060f4ff" />
+  <Project Path="Aufgabe 12/Aufgabe 12.csproj" Id="1cacc5ed-968f-4718-9772-9e991149545f" />
+  <Project Path="Aufgabe 13.1/Aufgabe 13.1.csproj" Id="3f73b0ee-5206-4632-b67e-c48bae3493e6" />
+  <Project Path="Aufgabe 13/Aufgabe 13.csproj" Id="6a2e0adf-e4ae-45af-9f7b-3d4583c08bf8" />
+  <Project Path="Aufgabe 14/Aufgabe 14.csproj" Id="0dcacf80-3f56-46b5-820e-778d60d099a9" />
+  <Project Path="Aufgabe 15/Aufgabe 15.csproj" Id="85e50346-bc06-4e81-b1fb-227f34945b22" />
+  <Project Path="Aufgabe 16.1/Aufgabe 16.1.csproj" Id="865ee540-2cbc-40be-a15b-30f813c48787" />
+  <Project Path="Aufgabe 16.2/Aufgabe 16.2.csproj" Id="fc9e513b-e816-40f7-9317-5eed23bd81bd" />
+  <Project Path="Aufgabe 16/Aufgabe 16.csproj" Id="ef7045b6-d023-4cb2-83c6-8fd98b5f779c" />
+  <Project Path="Aufgabe 17/Aufgabe 17.csproj" Id="b9889b81-d43d-4f31-9f7f-615b751852c6" />
+  <Project Path="Aufgabe 18.1/Aufgabe 18.1.csproj" />
+  <Project Path="Aufgabe 18.2/Aufgabe 18.2.csproj" Id="14ff5ba2-306e-46e4-8e5f-1ae9cf6488b5" />
+  <Project Path="Aufgabe 18/Aufgabe 18.csproj" Id="e9e800cd-13b2-46de-81ca-f5a9d0f7ca76" />
+  <Project Path="Aufgabe 19.2/Aufgabe 19.2.csproj" Id="2a821a92-469d-436e-90d8-9d6ce7bf4f0e" />
+  <Project Path="Aufgabe 19.4.1.1/Aufgabe 19.4.1.1.csproj" Id="de131dc3-7d2a-4902-a296-e115ea1fee62" />
+  <Project Path="Aufgabe 19.4.1.2/Aufgabe 19.4.1.2.csproj" Id="d1e99f85-f784-44a6-898b-a2ddbdae2b20" />
+  <Project Path="Aufgabe 19.4.1/Aufgabe 19.4.1.csproj" Id="bdff2ddc-57d5-4916-a4f7-431c4873cbaf" />
+  <Project Path="Aufgabe 19.4.5.1/Aufgabe 19.4.5.1.csproj" Id="bbee75e9-0dc6-413a-80f5-6103fbfcbba9" />
+  <Project Path="Aufgabe 19.4/Aufgabe 19.4.csproj" Id="bc2ebd78-4136-4af8-818e-ca5a022c6376" />
+  <Project Path="Aufgabe 19/Aufgabe 19.csproj" Id="41b489d0-df60-48ba-bb36-eda3dd3aea4c" />
+  <Project Path="Aufgabe 2/Aufgabe 2.csproj" />
+  <Project Path="Aufgabe 20.1/Aufgabe 20.1.csproj" Id="6b7ce246-1f39-403d-b911-9d175c369c6b" />
+  <Project Path="Aufgabe 20/Aufgabe 20.csproj" Id="c8b1becd-4849-41f9-8502-8e5aed76a4ae" />
+  <Project Path="Aufgabe 21.1/Aufgabe 21.1.csproj" Id="098398f1-410d-411b-a00b-06383bfcc70a" />
+  <Project Path="Aufgabe 21/Aufgabe 21.csproj" Id="98287f8b-67aa-4864-9c29-ed626b6a4c78" />
+  <Project Path="Aufgabe 22.1/Aufgabe 22.1.csproj" Id="340dbbee-22e5-4272-947f-55b434445a11" />
+  <Project Path="Aufgabe 22.2.1/Aufgabe 22.2.1.csproj" Id="021377ae-78c9-441f-a064-a762999b86c1" />
+  <Project Path="Aufgabe 22.2/Aufgabe 22.2.csproj" Id="b3b50ac7-c0a2-48b4-82f7-c376cdd6285f" />
+  <Project Path="Aufgabe 22/Aufgabe 22.csproj" Id="4c970cf8-771f-417a-a076-c46b6cd946a8" />
+  <Project Path="Aufgabe 23/Aufgabe 23.csproj" Id="be43c20e-60de-4b5d-a6c3-4158a495204f" />
+  <Project Path="Aufgabe 24/Aufgabe 24.csproj" Id="70e345e5-a2dc-480f-85fc-2721c1a1e4c3" />
+  <Project Path="Aufgabe 3/Aufgabe 3.csproj" />
+  <Project Path="Aufgabe 4/Aufgabe 4.csproj" />
+  <Project Path="Aufgabe 6/Aufgabe 6.csproj" Id="eb2577bb-e59d-4d8d-a96e-78e5d27fa788" />
+  <Project Path="Aufgabe 7/Aufgabe 7.csproj" Id="7cd6b0bc-bec9-43d2-930b-2f8666dcb4d2" />
+  <Project Path="Aufgabe 8/Aufgabe 8.csproj" Id="ede5a51d-dc58-49b8-bf2b-78c3b54352d1" />
+  <Project Path="Aufgabe 9/Aufgabe 9.csproj" Id="b876f9a0-765c-478f-87c5-3cce0d0bb833" />
+  <Project Path="Aufgabe5/Aufgabe 5.csproj" />
+  <Project Path="Personenverwaltung/Personenverwaltung.csproj" Id="b80c7b56-fdb1-42ac-9132-4f6e065b91a7" />
+  <Project Path="RandomClass/RandomClass.csproj" Id="f17a212e-e00d-4f7c-80d8-24ba6b83087d" />
+  <Project Path="TestArrays/TestArrays.csproj" Id="c818d729-9ce5-416f-b588-e3b5bbe5522a" />
+  <Project Path="TestDateTime&amp;TimeSpan/TestDateTime&amp;TimeSpan.csproj" Id="6bf7f6f6-6889-4661-932a-313059bd8720" />
+  <Project Path="TestFilesAndDirectories/TestFilesAndDirectories.csproj" Id="c51453fc-0a82-48eb-9a75-d6076fa6e0f3" />
+  <Project Path="TestLists/TestLists.csproj" Id="f83b5947-50c3-438f-a020-b5e49290977a" />
+  <Project Path="TestObject/TestObject.csproj" Id="d0c8e45e-c590-42c0-933d-7263f4be110e" />
+  <Project Path="TestProceduralProgramming/TestProceduralProgramming.csproj" Id="389164b3-bb6f-4879-9ccf-d525898d34e1" />
+  <Project Path="TestProject1/TestProject1.csproj" Id="afc8bdbb-d153-4b58-8fec-b7d170f35f1e" />
+  <Project Path="TestStringBuilder/TestStringBuilder.csproj" Id="995ad6be-d663-4814-ab60-b5efeb8af44b" />
+  <Project Path="TestStrings/TestStrings.csproj" Id="983e1cfe-809b-4cfc-a4b2-59cc162b1d50" />
+  <Project Path="TestSummarisingText/TestSummarisingText.csproj" Id="6caad9f6-1b8b-44fa-9e45-b7a5751adc2b" />
+  <Project Path="UdemyCSharpFundamentalsExercisesArraysAndLists/UdemyCSharpFundamentalsExercisesArraysAndLists.csproj" Id="aebbf603-dd96-455d-9cda-1f586b27c2fb" />
+  <Project Path="UdemyCSharpFundamentalsExercisesConditionals/UdemyCSharpFundamentalsExercisesConditionals.csproj" />
+  <Project Path="UdemyCSharpFundamentalsExercisesFilesAndDirectories/UdemyCSharpFundamentalsExercisesFilesAndDirectories.csproj" />
+  <Project Path="UdemyCSharpFundamentalsExercisesProceduralProgramming/UdemyCSharpFundamentalsExercisesProceduralProgramming.csproj" Id="2c4e9940-ed83-4035-a792-3aa65268eabc" />
+  <Project Path="UdemyCSharpFundamentalsExercisesText/UdemyCSharpFundamentalsExercisesText.csproj" Id="922620a2-a685-40ba-ba48-8aa5bb5c91fe" />
+  <Project Path="UdemyCSharpFundementalsExercisesLoops/UdemyCSharpFundementalsExercisesLoops.csproj" Id="3bfc8666-ea3a-4905-b076-3d7ded17fa55" />
+  <Project Path="UdemyCSharpIntermediateAccessModifiers/UdemyCSharpIntermediateAccessModifiers.csproj" Id="8f3ebc02-20fb-441a-99bd-f97a4f5cf492" />
+  <Project Path="UdemyCSharpIntermediateAccessProperties/UdemyCSharpIntermediateProperties.csproj" Id="99c55592-e578-4768-b436-968c042aff7d" />
+  <Project Path="UdemyCSharpIntermediateClasses/UdemyCSharpIntermediateClasses.csproj" Id="84ae715b-5466-4e16-869a-23d25c0dd741" />
+  <Project Path="UdemyCSharpIntermediateComposition/UdemyCSharpIntermediateComposition.csproj" Id="e7f29717-9a92-444d-95c7-04f0a3c26d72" />
+  <Project Path="UdemyCSharpIntermediateConstructors/UdemyCSharpIntermediateConstructors.csproj" Id="b5fd5b8f-6883-43b4-8c77-c8bfd792dd29" />
+  <Project Path="UdemyCSharpIntermediateFields/UdemyCSharpIntermediateFields.csproj" Id="8c7d4bdd-e51c-4976-8585-16e23dd93579" />
+  <Project Path="UdemyCSharpIntermediateIndexers/UdemyCSharpIntermediateIndexers.csproj" Id="36205a4d-be6d-4591-95e4-42298ca137d9" />
+  <Project Path="UdemyCSharpIntermediateInheritance/UdemyCSharpIntermediateInheritance.csproj" Id="8d19d540-ed8d-4051-89bc-c404cae9e8e6" />
+  <Project Path="UdemyCSharpIntermediateMethods/UdemyCSharpIntermediateMethods.csproj" Id="3936b118-69d9-41df-812a-6c4c1bddce47" />
+  <Project Path="UdemyIntermediateExercisesClasses/UdemyIntermediateExercisesClasses.csproj" Id="d4b44a1e-41ea-483b-ab71-a5e6bd525cec" />
+  <Project Path="UdemyTest1/UdemyTest1.csproj" Id="24f0f707-fc24-495a-b31d-76140062b052" />
+</Solution>

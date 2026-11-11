@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Aufgabe 22.2.1": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\FilesForTesting\\TestFolder C:\\FilesForTesting\\TargetFolder"
+    }
+  }
+}
